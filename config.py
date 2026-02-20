@@ -6,5 +6,5 @@ def get_db_connection():
         host="localhost",
         user="root",
         password="Khushi@123",
-        database="pypro"
+        database="incident_db"
     )
